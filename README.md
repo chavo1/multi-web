@@ -18,7 +18,7 @@ vagrant up
 
 Type a localhost:8081 and localhost:8082 on both you should see the web servers
 
-The result should be the same 192.168.56.51 on port 80 and 192.168.56.51 on port 80 
+The result should be the same 192.168.56.56 on port 80 and 192.168.56.57 on port 80 
 
 After this you can destroy the environments as follow:
 ```

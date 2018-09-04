@@ -16,7 +16,7 @@ vagrant up
 
 4.  Open a web browser of your choice.
 
-Type a localhost:8081 and localhost:8081 on both you should see the web servers
+Type a localhost:8081 and localhost:8082 on both you should see the web servers
 
 The result should be the same 192.168.56.51 on port 80 and 192.168.56.51 on port 80 
 
